@@ -1,4 +1,4 @@
-module github.com/Ash-exp/go-bitbucket
+module github.com/ash-exp/go-bitbucket
 
 go 1.14
 
